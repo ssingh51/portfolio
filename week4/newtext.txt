@@ -1,0 +1,7 @@
+Bash is the deafult shell on most Unix-like Operating computers.
+
+It allows users to control computers through a command-line interface.
+
+it acts as a scripting language that can be used to automate tasks.
+
+sed is a program that allows text to be parsed and modfied in a powerful and effective way.
